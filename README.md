@@ -39,7 +39,7 @@ python main.py
 ---
 
 ##  Screenshots
-<img width="892" height="716" alt="image" src="https://github.com/user-attachments/assets/e4be19c3-b7f4-4e48-86b6-cf1606574f48" />
+<img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/ef2fe159-8903-4a27-ba75-ae99bafa47eb" />
 
 ---
 ---
