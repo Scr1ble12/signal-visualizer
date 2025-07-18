@@ -39,8 +39,7 @@ python main.py
 ---
 
 ##  Screenshots
-
-*(Add your own here once you run the app)*
+<img width="892" height="716" alt="image" src="https://github.com/user-attachments/assets/e4be19c3-b7f4-4e48-86b6-cf1606574f48" />
 
 ---
 ---
