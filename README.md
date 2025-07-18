@@ -50,5 +50,3 @@ python main.py
 - `README.md`: You're reading it!
 
 ---
-
-## 📬 Co by a future EE undergrad. Want help building your own? Reach out!
